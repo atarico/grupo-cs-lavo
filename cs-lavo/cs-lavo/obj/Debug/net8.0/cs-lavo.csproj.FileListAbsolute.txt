@@ -1,0 +1,15 @@
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.AssemblyInfoInputs.cache
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.AssemblyInfo.cs
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.csproj.CoreCompileInputs.cache
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.sourcelink.json
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\bin\Debug\net8.0\cs-lavo.exe
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\bin\Debug\net8.0\cs-lavo.deps.json
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\bin\Debug\net8.0\cs-lavo.runtimeconfig.json
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\bin\Debug\net8.0\cs-lavo.dll
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\bin\Debug\net8.0\cs-lavo.pdb
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.dll
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\refint\cs-lavo.dll
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.pdb
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\cs-lavo.genruntimeconfig.cache
+C:\Users\leanf\OneDrive\Escritorio\TP Final Programacion\grupo-cs-lavo\cs-lavo\cs-lavo\obj\Debug\net8.0\ref\cs-lavo.dll
