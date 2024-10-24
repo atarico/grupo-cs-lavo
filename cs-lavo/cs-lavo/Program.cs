@@ -1,7 +1,7 @@
-﻿using BibliotecaUTN;
+﻿using TechInnovate;
 using Microsoft.VisualBasic;
 
-namespace BibliotecaUTN
+namespace TechInnovate
 {
     public class Program
     {
@@ -63,7 +63,7 @@ namespace BibliotecaUTN
             {
                 case "Agregar nuevo proyecto":
 
-
+                    
                     Console.ReadKey();
                     break;
                 case "Mostrar proyectos registrados":
