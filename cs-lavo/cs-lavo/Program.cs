@@ -59,11 +59,11 @@ namespace TechInnovate
         }
         public static void MenuAsync(string userInput)
         {
-            switch (userInput)
+            switch(userInput)
             {
                 case "Agregar nuevo proyecto":
 
-                    
+                    Proyecto.Crear(new Proyecto());
                     Console.ReadKey();
                     break;
                 case "Mostrar proyectos registrados":
