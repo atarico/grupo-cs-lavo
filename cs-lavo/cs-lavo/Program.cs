@@ -25,7 +25,7 @@ namespace TechInnovate
                 {
                     if (i == selectedIndex)
                     {
-                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write((char)2 + " ");
                     }
                     else

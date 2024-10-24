@@ -1,4 +1,4 @@
-﻿using System;
+﻿using TechInnovate;
 
 public abstract class Proyecto
 {
