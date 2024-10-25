@@ -22,5 +22,9 @@ public abstract class Proyecto
         Console.WriteLine($"Cantidad de desarrolladores: {CantidadDesarrolladores}");
         Console.WriteLine($"Fecha de inicio: {FechaInicio.ToShortDateString()}");
     }
+
+
+    public abstract double CalcularDuracion(); // Método abstracto
+
 }
 

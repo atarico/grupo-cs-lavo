@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cs-lavo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6e7389360c3c1f0f995a23c44622e9aba751ca1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaa0292f049ed280253e9630c0e43f33bd4c6bf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("cs-lavo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cs-lavo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

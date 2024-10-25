@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leanf\\OneDrive\\Escritorio\\TP Final Programacion\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj": {}
+    "C:\\Users\\nacho\\OneDrive\\Documentos\\facultad\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leanf\\OneDrive\\Escritorio\\TP Final Programacion\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj": {
+    "C:\\Users\\nacho\\OneDrive\\Documentos\\facultad\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leanf\\OneDrive\\Escritorio\\TP Final Programacion\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj",
+        "projectUniqueName": "C:\\Users\\nacho\\OneDrive\\Documentos\\facultad\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj",
         "projectName": "cs-lavo",
-        "projectPath": "C:\\Users\\leanf\\OneDrive\\Escritorio\\TP Final Programacion\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj",
-        "packagesPath": "C:\\Users\\leanf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leanf\\OneDrive\\Escritorio\\TP Final Programacion\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\obj\\",
+        "projectPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\facultad\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\cs-lavo.csproj",
+        "packagesPath": "C:\\Users\\nacho\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nacho\\OneDrive\\Documentos\\facultad\\grupo-cs-lavo\\cs-lavo\\cs-lavo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\leanf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nacho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

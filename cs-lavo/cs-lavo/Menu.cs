@@ -2,6 +2,6 @@
 {
     public class Constants
     {
-        public static string[] menuOptions = { "Agregar nuevo proyecto", "Mostrar proyectos registrados", "Modificar proyecto existente", "Eliminar proyecto por su nombre", "Salir" };
+        public static string[] menuOptions = { "Agregar Proyecto", "Mostrar Proyectos", "Editar Proyecto", "Eliminar Proyecto", "Guardar Proyectos en Archivo", "Cargar Proyectos desde Archivo",  "Salir" };
     }
 }
